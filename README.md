@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjal Shivatata</h1>
-<h3 align="center">A passionate frontend developer who thrives to learn new things.</h3>
+<h3 align="center">A passionate FullStack Developer who thrives to learn new things.</h3>
 
 - 💬 Ask me about **React, Html, Css , javascript etc**
 
